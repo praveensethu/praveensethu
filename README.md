@@ -31,6 +31,14 @@ Outside of work, I build native Apple apps with **SwiftUI** — productivity too
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praveensethu/praveensethu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praveensethu/praveensethu/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/praveensethu/praveensethu/output/github-snake.svg" />
+</picture>
+
 ---
 
 *All personal projects are built collaboratively with [Claude Code](https://claude.ai/code).*
