@@ -1,4 +1,10 @@
-# Hey, I'm Praveen
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFB800&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Praveen+%F0%9F%91%8B;I+build+native+Apple+apps;Salesforce+platform+engineer;SwiftUI+%7C+Apex+%7C+MuleSoft" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=praveensethu&style=flat-square&color=FFB800&label=Profile+Views" alt="Profile Views" />
+</p>
 
 Software Engineer at **Gusto** working on Salesforce platform engineering, integrations, and internal tooling.
 
@@ -30,6 +36,12 @@ Outside of work, I build native Apple apps with **SwiftUI** — productivity too
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-00599C?style=flat&logo=mulesoft&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+
+## GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=praveensethu&theme=dark&hide_border=true&background=0d1117&ring=FFB800&fire=FF6B6B&currStreakLabel=FFB800&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" />
+</p>
 
 ## Contribution Graph
 
