@@ -21,12 +21,15 @@ Outside of work, I build native Apple apps with **SwiftUI** — productivity too
 | [FocusFlow iOS](https://github.com/praveensethu/FocusFlowIOS) | Minimal Pomodoro timer for iOS |
 | [MarkdownPreviewer](https://github.com/praveensethu/MarkdownPreviewer) | macOS markdown previewer with dark theme and VS Code-style syntax highlighting |
 
-## GitHub Stats
+## At a Glance
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=praveensethu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FFB800&icon_color=FFB800&text_color=c9d1d9" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveensethu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FFB800&text_color=c9d1d9" alt="Top Languages" height="165" />
-</p>
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-00599C?style=flat&logo=mulesoft&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 
 ---
 
